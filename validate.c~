@@ -1,0 +1,4 @@
+#include "monty.h"
+/**
+ * spacerem - remove spaces fronm a string input
+ * It removes spaces from the 
